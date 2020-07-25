@@ -1,5 +1,5 @@
 ### Hi !
-I'm Lilian, I'm a french developer (a litte developer, lol) and
+I'm Lilian, I'm a french developer (a little developer, lol) and
 I have nothing else to say in particular (except that the picture underneath is too swag)
 
 ![LLinoor's github stats](https://github-readme-stats.vercel.app/api?username=LLinoor&count_private=true&show_icons=true&icon_color=000000)
