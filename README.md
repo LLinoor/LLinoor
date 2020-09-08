@@ -6,7 +6,7 @@
 - 🤔 I'm looking for help to find my motivation
 - 💬 Ask me about nothing
 - 📫 How to reach me : Create an issue on one of my repo and I will answer you (lol)
-- 😄 Pronouns: ?
+- 😄 Lilian calls himself "lili - ian" and not "lili - iane".
 - ⚡ Fun fact: I learned HTML when I was 9.
 <br />
 
