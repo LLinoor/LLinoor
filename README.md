@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on "Botte" (a bot Discord)
 - 🌱 I’m currently learning JavaScript (lol it can still wait)
-- 👯 I’m looking to collaborate with Elon Musk
+- 👯 I’m looking to collaborate with my motivation (but I can't find her)
 - 🤔 I'm looking for help to find my motivation
 - 💬 Ask me about nothing
 - 📫 How to reach me : Create an issue on one of my repo and I will answer you (lol)
